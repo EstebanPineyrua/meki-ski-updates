@@ -1,4 +1,4 @@
-# Meki Ski Service
+# Meki Service
 
 **Sistema de gestión para talleres**  
 Llevá el control de tus órdenes, clientes e inventario desde una app de escritorio rápida y fácil de usar.
