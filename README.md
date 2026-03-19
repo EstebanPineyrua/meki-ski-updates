@@ -9,7 +9,7 @@ Llevá el control de tus órdenes, clientes e inventario desde una app de escrit
 
 <div align="center">
 
-### [⬇️ Descargar última versión](https://github.com/EstebanPineyrua/meki-ski-updates/releases/latest)
+### [Descargar última versión](https://github.com/EstebanPineyrua/meki-ski-updates/releases/latest)
 
 
 </div>
