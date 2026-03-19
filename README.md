@@ -5,17 +5,6 @@ Llevá el control de tus órdenes, clientes e inventario desde una app de escrit
 
 ---
 
-## Descarga
-
-<div align="center">
-
-### [Descargar última versión](https://github.com/EstebanPineyrua/meki-ski-updates/releases/latest)
-
-
-</div>
-
----
-
 ## ¿Qué hace?
 
 ### Órdenes de trabajo
@@ -46,13 +35,24 @@ La app se actualiza sola. No necesitás desinstalar ni volver a descargar manual
 
 ## Instalación
 
-1. Descargá el instalador desde el botón de arriba
+1. Descargá el instalador desde el botón de abajo
 2. Ejecutá el `.exe` y seguí los pasos
 3. Creá tu cuenta y empezá a usarla
 
 > La primera vez incluye **7 días de prueba gratuita**.
 
 📩 Contacto para activar tu licencia: **pineyrue@gmail.com**
+
+---
+
+## Descarga
+
+<div align="center">
+
+### [Descargar última versión](https://github.com/EstebanPineyrua/meki-ski-updates/releases/latest)
+
+
+</div>
 
 ---
 
