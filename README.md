@@ -52,8 +52,6 @@ La app se actualiza sola. No necesitás desinstalar ni volver a descargar manual
 
 > La primera vez incluye **7 días de prueba gratuita**.
 
----|
-
 📩 Contacto para activar tu licencia: **pineyrue@gmail.com**
 
 ---
