@@ -63,5 +63,5 @@ La app se actualiza sola. No necesitás desinstalar ni volver a descargar manual
 ---
 
 <div align="center">
-  <sub>© Meki Ski Service — Todos los derechos reservados</sub>
+  <sub>© Meki Service — Todos los derechos reservados</sub>
 </div>
